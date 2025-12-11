@@ -91,7 +91,6 @@
 | 2025-11-27 | 13:13 | 香港政府安排巡查全港所有正進行大型維修屋苑，檢視棚架及建築物料安全。    | INSPECTION      | 全港巡查       | [SBS Australia](https://www.sbs.com.au/language/chinese/zh-hant/article/hong-kong-residential-tower-fire-timeline/xey8t7kt2)                                                                                                                                                            | [影片](https://youtu.be/_RbbsVPI6hM?t=20571) |       |     |
 | 2025-11-27 | 14:40 | 消防處：增至55死。                                                      | CASUALTY_UPDATE | 55死           | [HK01](https://www.hk01.com/%E7%AA%81%E7%99%BC/60298585/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB-%E6%99%82%E5%BA%8F-%E7%84%A1%E6%83%85%E7%81%AB%E7%87%927%E5%BB%88%E5%A5%AA%E9%80%BE%E7%99%BE%E5%91%BD-%E9%80%BE43%E5%B0%8F%E6%99%82%E7%99%BC%E7%94%9F%E4%BA%86%E4%BD%95%E4%BA%8B) | [影片](https://youtu.be/_RbbsVPI6hM?t=25818) |       |     |
 | 2025-11-27 | 14:58 | 消防指四座已救熄，另外三座受控，死亡人數增至最少55人。                  | CASUALTY_UPDATE | 55死           | [SBS Australia](https://www.sbs.com.au/language/chinese/zh-hant/article/hong-kong-residential-tower-fire-timeline/xey8t7kt2)                                                                                                                                                            | [影片](https://youtu.be/_RbbsVPI6hM?t=26889) |       |     |
-| 2025-11-27 | 15:00 | 當局開放火場附近的廣福社區會堂，供家屬看照片認屍。                      | SEARCH_RECOVERY | 照片認屍       | [HK01](https://www.hk01.com/%E7%AA%81%E7%99%BC/60298585/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB-%E6%99%82%E5%BA%8F-%E7%84%A1%E6%83%85%E7%81%AB%E7%87%927%E5%BB%88%E5%A5%AA%E9%80%BE%E7%99%BE%E5%91%BD-%E9%80%BE43%E5%B0%8F%E6%99%82%E7%99%BC%E7%94%9F%E4%BA%86%E4%BD%95%E4%BA%8B) | [影片](https://youtu.be/_RbbsVPI6hM?t=27015) |       |     |
 | 2025-11-27 | 15:00 | 死亡人數更新為128人。                                                   | CASUALTY_UPDATE | 歷史性慘劇     | [跨部門記者會](https://www.info.gov.hk/gia/general/202511/27/P2025112700456.htm)                                                                                                                                                                                                        |                                              |       |     |
 | 2025-11-27 | 15:50 | 行政長官李家超到大埔宏福苑视察火災現場。                                | OTHER           | 官員視察       | [HK01](https://www.hk01.com/%E7%AA%81%E7%99%BC/60298585/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB-%E6%99%82%E5%BA%8F-%E7%84%A1%E6%83%85%E7%81%AB%E7%87%927%E5%BB%88%E5%A5%AA%E9%80%BE%E7%99%BE%E5%91%BD-%E9%80%BE43%E5%B0%8F%E6%99%82%E7%99%BC%E7%94%9F%E4%BA%86%E4%BD%95%E4%BA%8B) | [影片](https://youtu.be/_RbbsVPI6hM?t=30016) |       |     |
 | 2025-11-27 | 17:00 | 政府宣布為每個受影響的宏福苑住戶提供1萬元應急錢，成立3億元援助基金。    | RELIEF          | 援助基金       | [HK01](https://www.hk01.com/%E7%AA%81%E7%99%BC/60298585/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB-%E6%99%82%E5%BA%8F-%E7%84%A1%E6%83%85%E7%81%AB%E7%87%927%E5%BB%88%E5%A5%AA%E9%80%BE%E7%99%BE%E5%91%BD-%E9%80%BE43%E5%B0%8F%E6%99%82%E7%99%BC%E7%94%9F%E4%BA%86%E4%BD%95%E4%BA%8B) | [影片](https://youtu.be/_RbbsVPI6hM?t=34215) |       |     |
@@ -130,14 +129,13 @@
 
 <!-- TIMELINE_TABLE_START -->
 
-| DATE       | TIME  | EVENT                                                       | CATEGORY        | STATUS_NOTE  | SOURCE                                                                                                                                                                                                                                                                                  | VIDEO                                        | PHOTO | END |
-| ---------- | ----- | ----------------------------------------------------------- | --------------- | ------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- | ----- | --- |
-| 2025-11-28 | 00:00 | 消防處：增至83死。                                          | CASUALTY_UPDATE | 83死         | [HK01](https://www.hk01.com/%E7%AA%81%E7%99%BC/60298585/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB-%E6%99%82%E5%BA%8F-%E7%84%A1%E6%83%85%E7%81%AB%E7%87%927%E5%BB%88%E5%A5%AA%E9%80%BE%E7%99%BE%E5%91%BD-%E9%80%BE43%E5%B0%8F%E6%99%82%E7%99%BC%E7%94%9F%E4%BA%86%E4%BD%95%E4%BA%8B) | [影片](https://youtu.be/vUe4jpaVGcI?t=18365) |       |     |
-| 2025-11-28 | 01:20 | 消防處：個別4個單位仍在滅火，預計爆破救援工作今早9時完成。  | FIREFIGHTING    | 25宗救援中   | [HK01](https://www.hk01.com/%E7%AA%81%E7%99%BC/60298585/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB-%E6%99%82%E5%BA%8F-%E7%84%A1%E6%83%85%E7%81%AB%E7%87%927%E5%BB%88%E5%A5%AA%E9%80%BE%E7%99%BE%E5%91%BD-%E9%80%BE43%E5%B0%8F%E6%99%82%E7%99%BC%E7%94%9F%E4%BA%86%E4%BD%95%E4%BA%8B) | [影片](https://youtu.be/vUe4jpaVGcI?t=23174) |       |     |
-| 2025-11-28 | 06:00 | 消防處：火警暫造成94死、76傷。包括12名消防員受傷、1人殉職。 | CASUALTY_UPDATE | 94死76傷     | [SBS Australia](https://www.sbs.com.au/language/chinese/zh-hant/article/hong-kong-residential-tower-fire-timeline/xey8t7kt2)                                                                                                                                                            |                                              |       |     |
-| 2025-11-28 | 10:18 | 消防處宣佈火警大致救熄。                                    | FIREFIGHTING    | 歷時43小時   | [HK01](https://www.hk01.com/%E7%AA%81%E7%99%BC/60298585/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB-%E6%99%82%E5%BA%8F-%E7%84%A1%E6%83%85%E7%81%AB%E7%87%927%E5%BB%88%E5%A5%AA%E9%80%BE%E7%99%BE%E5%91%BD-%E9%80%BE43%E5%B0%8F%E6%99%82%E7%99%BC%E7%94%9F%E4%BA%86%E4%BD%95%E4%BA%8B) |                                              |       | x   |
-| 2025-11-28 | 14:00 | 政府化驗所及消防處調查犬隊進入火場搜證 (持續至18:00)。      | INVESTIGATION   | 取走物料樣本 |                                                                                                                                                                                                                                                                                         |                                              |       |     |
-| 2025-11-28 | 15:00 | 簡報：火警已造成128死，約有200人情況未明。                  | CASUALTY_UPDATE | 128死        | [HK01](https://www.hk01.com/%E7%AA%81%E7%99%BC/60298585/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB-%E6%99%82%E5%BA%8F-%E7%84%A1%E6%83%85%E7%81%AB%E7%87%927%E5%BB%88%E5%A5%AA%E9%80%BE%E7%99%BE%E5%91%BD-%E9%80%BE43%E5%B0%8F%E6%99%82%E7%99%BC%E7%94%9F%E4%BA%86%E4%BD%95%E4%BA%8B) | [影片](https://youtu.be/LuetIsELfYc?t=11740) |       |     |
+| DATE       | TIME  | EVENT                                                       | CATEGORY        | STATUS_NOTE | SOURCE                                                                                                                                                                                                                                                                                  | VIDEO                                        | PHOTO | END |
+| ---------- | ----- | ----------------------------------------------------------- | --------------- | ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- | ----- | --- |
+| 2025-11-28 | 00:00 | 消防處：增至83死。                                          | CASUALTY_UPDATE | 83死        | [HK01](https://www.hk01.com/%E7%AA%81%E7%99%BC/60298585/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB-%E6%99%82%E5%BA%8F-%E7%84%A1%E6%83%85%E7%81%AB%E7%87%927%E5%BB%88%E5%A5%AA%E9%80%BE%E7%99%BE%E5%91%BD-%E9%80%BE43%E5%B0%8F%E6%99%82%E7%99%BC%E7%94%9F%E4%BA%86%E4%BD%95%E4%BA%8B) | [影片](https://youtu.be/vUe4jpaVGcI?t=18365) |       |     |
+| 2025-11-28 | 01:20 | 消防處：個別4個單位仍在滅火，預計爆破救援工作今早9時完成。  | FIREFIGHTING    | 25宗救援中  | [HK01](https://www.hk01.com/%E7%AA%81%E7%99%BC/60298585/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB-%E6%99%82%E5%BA%8F-%E7%84%A1%E6%83%85%E7%81%AB%E7%87%927%E5%BB%88%E5%A5%AA%E9%80%BE%E7%99%BE%E5%91%BD-%E9%80%BE43%E5%B0%8F%E6%99%82%E7%99%BC%E7%94%9F%E4%BA%86%E4%BD%95%E4%BA%8B) | [影片](https://youtu.be/vUe4jpaVGcI?t=23174) |       |     |
+| 2025-11-28 | 06:00 | 消防處：火警暫造成94死、76傷。包括12名消防員受傷、1人殉職。 | CASUALTY_UPDATE | 94死76傷    | [SBS Australia](https://www.sbs.com.au/language/chinese/zh-hant/article/hong-kong-residential-tower-fire-timeline/xey8t7kt2)                                                                                                                                                            |                                              |       |     |
+| 2025-11-28 | 10:18 | 消防處宣佈火警大致救熄。                                    | FIREFIGHTING    | 歷時43小時  | [HK01](https://www.hk01.com/%E7%AA%81%E7%99%BC/60298585/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB-%E6%99%82%E5%BA%8F-%E7%84%A1%E6%83%85%E7%81%AB%E7%87%927%E5%BB%88%E5%A5%AA%E9%80%BE%E7%99%BE%E5%91%BD-%E9%80%BE43%E5%B0%8F%E6%99%82%E7%99%BC%E7%94%9F%E4%BA%86%E4%BD%95%E4%BA%8B) |                                              |       | x   |
+| 2025-11-28 | 15:00 | 簡報：火警已造成128死，約有200人情況未明。                  | CASUALTY_UPDATE | 128死       | [HK01](https://www.hk01.com/%E7%AA%81%E7%99%BC/60298585/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB-%E6%99%82%E5%BA%8F-%E7%84%A1%E6%83%85%E7%81%AB%E7%87%927%E5%BB%88%E5%A5%AA%E9%80%BE%E7%99%BE%E5%91%BD-%E9%80%BE43%E5%B0%8F%E6%99%82%E7%99%BC%E7%94%9F%E4%BA%86%E4%BD%95%E4%BA%8B) | [影片](https://youtu.be/LuetIsELfYc?t=11740) |       |     |
 
 <!-- TIMELINE_TABLE_END -->
 <!-- PHASE_END -->
@@ -173,14 +171,13 @@
 
 <!-- TIMELINE_TABLE_START -->
 
-| DATE       | TIME         | EVENT                                                             | CATEGORY      | STATUS_NOTE      | SOURCE                                                                       | VIDEO | PHOTO | END |
-| ---------- | ------------ | ----------------------------------------------------------------- | ------------- | ---------------- | ---------------------------------------------------------------------------- | ----- | ----- | --- |
-| 2025-12-02 | TIME_ALL_DAY | 全港哀悼日。政府建築物下半旗致哀。                                | MOURNING      |                  | [政府憲報](https://www.gld.gov.hk/egazette/)                                 |       |       |     |
-| 2025-12-03 | 09:00        | 獨立調查委員會召開首次預備會議，確定調查範圍。                    | INQUIRY       |                  | [委員會秘書處](https://www.commissionofinquiry.gov.hk)                       |       |       |     |
-| 2025-12-03 | 10:00        | 屋宇署特遣隊巡查大埔區另外3個進行類近工程的屋苑 (持續至17:00)。   | INSPECTION    | 發出2張停工令    | [屋宇署新聞稿](https://www.bd.gov.hk/en/whats-new/press-releases/index.html) |       |       |     |
-| 2025-12-05 | 14:30        | 警方落案起訴承建商董事「誤殺」罪，於粉嶺裁判法院提堂。            | LEGAL         | 被告申請保釋被拒 | [法庭記者](https://news.rthk.hk/)                                            |       |       |     |
-| 2025-12-06 | 11:00        | 消防處公佈初步調查報告摘要，確認起火原因涉及違規物料。            | INVESTIGATION |                  | [消防處記者會](https://www.hkfsd.gov.hk/)                                    |       |       |     |
-| 2025-12-01 | TIME_ONGOING | 社會福利署及紅十字會心理支援隊駐守大埔，為超過500名居民提供輔導。 | RELIEF        | 服務將維持至年底 | [社署](https://www.swd.gov.hk/)                                              |       |       |     |
+| DATE       | TIME         | EVENT           | CATEGORY      | STATUS_NOTE     | SOURCE                                                                          | VIDEO | PHOTO | END |
+| ---------- | ------------ | --------------- | ------------- | --------------- | ------------------------------------------------------------------------------- | ----- | ----- | --- |
+| 2025-12-03 | 09:00        | TO BE DELICATED | INQUIRY       | TO BE DELICATED | [TO BE DELICATED](https://www.commissionofinquiry.gov.hk)                       |       |       |     |
+| 2025-12-03 | 10:00        | TO BE DELICATED | INSPECTION    | TO BE DELICATED | [TO BE DELICATED](https://www.bd.gov.hk/en/whats-new/press-releases/index.html) |       |       |     |
+| 2025-12-05 | 14:30        | TO BE DELICATED | LEGAL         | TO BE DELICATED | [TO BE DELICATED](https://news.rthk.hk/)                                        |       |       |     |
+| 2025-12-06 | 11:00        | TO BE DELICATED | INVESTIGATION | TO BE DELICATED | [TO BE DELICATED](https://www.hkfsd.gov.hk/)                                    |       |       |     |
+| 2025-12-01 | TIME_ONGOING | TO BE DELICATED | RELIEF        | TO BE DELICATED | [TO BE DELICATED](https://www.swd.gov.hk/)                                      |       |       |     |
 
 <!-- TIMELINE_TABLE_END -->
 <!-- PHASE_END -->
@@ -191,13 +188,13 @@
 
 <!-- LONG_TERM_TRACKING_START -->
 
-| DATE       | CATEGORY          | EVENT                                        | STATUS      | NOTE               |
-| ---------- | ----------------- | -------------------------------------------- | ----------- | ------------------ |
-| 2025-12-05 | LEGAL_PROCEEDINGS | 刑事檢控程序（排期審訊中）                   | IN_PROGRESS | 預計持續至 2026-06 |
-| 2026-01-01 | LEGAL_PROCEEDINGS | 死因研訊 (Coroner's Inquest) 展開            | PENDING     | 暫定               |
-| 2025-12-01 | RECONSTRUCTION    | 結構安全詳細評估期                           | IN_PROGRESS | 持續至 2025-12-31  |
-| 2026-01-15 | RECONSTRUCTION    | 招標進行復修工程                             | PLANNED     | 暫定               |
-| 2025-12-10 | POLICY_REVIEW     | 消防條例修訂公眾諮詢（關於舊樓消防系統提升） | PLANNED     | 持續至 2026-03     |
+| DATE       | CATEGORY          | EVENT           | STATUS      | NOTE               |
+| ---------- | ----------------- | --------------- | ----------- | ------------------ |
+| 2025-12-05 | LEGAL_PROCEEDINGS | TO BE DELICATED | IN_PROGRESS | 預計持續至 2026-06 |
+| 2026-01-01 | LEGAL_PROCEEDINGS | TO BE DELICATED | PENDING     | 暫定               |
+| 2025-12-01 | RECONSTRUCTION    | TO BE DELICATED | IN_PROGRESS | 持續至 2025-12-31  |
+| 2026-01-15 | RECONSTRUCTION    | TO BE DELICATED | PLANNED     | 暫定               |
+| 2025-12-10 | POLICY_REVIEW     | TO BE DELICATED | PLANNED     | 持續至 2026-03     |
 
 <!-- LONG_TERM_TRACKING_END -->
 
