@@ -14,6 +14,8 @@
 
 <!-- PHASE_INFO_START -->
 
+<!-- TRANSLATE_ROWS: PHASE_NAME, STATUS -->
+
 | KEY            | VALUE          |
 | -------------- | -------------- |
 | PHASE_NAME     | 火警首日       |
@@ -25,6 +27,8 @@
 
 <!-- PHASE_DESCRIPTION_START -->
 
+<!-- TRANSLATE_TEXT -->
+
 **主要階段：** 爆發與升級
 
 火警於下午發生，受強風及易燃棚架影響，火勢迅速蔓延至頂層。消防處將火警升為五級，全港總動員參與救援。首日確認一名消防隊目殉職。
@@ -32,6 +36,8 @@
 <!-- PHASE_DESCRIPTION_END -->
 
 <!-- TIMELINE_TABLE_START -->
+
+<!-- TRANSLATE_COLUMNS: EVENT, STATUS_NOTE, SOURCE, VIDEO, PHOTO -->
 
 | DATE       | TIME  | EVENT                                                          | CATEGORY         | STATUS_NOTE    | SOURCE                                                                                                                                                                                                                                                                                  | VIDEO                                                   | PHOTO | END |
 | ---------- | ----- | -------------------------------------------------------------- | ---------------- | -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- | ----- | --- |
@@ -61,6 +67,8 @@
 
 <!-- PHASE_INFO_START -->
 
+<!-- TRANSLATE_ROWS: PHASE_NAME, STATUS -->
+
 | KEY            | VALUE                |
 | -------------- | -------------------- |
 | PHASE_NAME     | 災情顯現             |
@@ -80,6 +88,8 @@
 
 <!-- TIMELINE_TABLE_START -->
 
+<!-- TRANSLATE_COLUMNS: EVENT, STATUS_NOTE, SOURCE, VIDEO, PHOTO -->
+
 | DATE       | TIME  | EVENT                                                                   | CATEGORY        | STATUS_NOTE    | SOURCE                                                                                                                                                                                                                                                                                  | VIDEO                                        | PHOTO | END |
 | ---------- | ----- | ----------------------------------------------------------------------- | --------------- | -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- | ----- | --- |
 | 2025-11-27 | 00:00 | 現場不斷有遺體被送上黑箱車，陸續有生還者獲救出。                        | SEARCH_RECOVERY | 搜救持續       | [HK01](https://www.hk01.com/%E7%AA%81%E7%99%BC/60298585/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB-%E6%99%82%E5%BA%8F-%E7%84%A1%E6%83%85%E7%81%AB%E7%87%927%E5%BB%88%E5%A5%AA%E9%80%BE%E7%99%BE%E5%91%BD-%E9%80%BE43%E5%B0%8F%E6%99%82%E7%99%BC%E7%94%9F%E4%BA%86%E4%BD%95%E4%BA%8B) | [影片](https://youtu.be/l9uE2IRZ4HM?t=25303) |       |     |
@@ -87,7 +97,6 @@
 | 2025-11-27 | 03:00 | 保安局局長及消防處處長等官員到火警現場视察。                            | OTHER           | 官員視察       | [SBS Australia](https://www.sbs.com.au/language/chinese/zh-hant/article/hong-kong-residential-tower-fire-timeline/xey8t7kt2)                                                                                                                                                            | [影片](https://youtu.be/igiO6GtnjcM?t=3505)  |       |     |
 | 2025-11-27 | 05:45 | 消防表示，八座大廈中有一座沒受波及，四座受控，三座仍在處理中。          | CASUALTY_UPDATE | 累計44死       | [SBS Australia](https://www.sbs.com.au/language/chinese/zh-hant/article/hong-kong-residential-tower-fire-timeline/xey8t7kt2)                                                                                                                                                            | [影片](https://youtu.be/igiO6GtnjcM?t=13393) |       |     |
 | 2025-11-27 | 06:00 | 消防控制火勢，開始處理殘火 (Damping down) (持續至12:00)。發現更多遺體。 | FIREFIGHTING    | 死亡人數升至44 | [HK01](https://www.hk01.com/%E7%AA%81%E7%99%BC/60298585/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB-%E6%99%82%E5%BA%8F-%E7%84%A1%E6%83%85%E7%81%AB%E7%87%927%E5%BB%88%E5%A5%AA%E9%80%BE%E7%99%BE%E5%91%BD-%E9%80%BE43%E5%B0%8F%E6%99%82%E7%99%BC%E7%94%9F%E4%BA%86%E4%BD%95%E4%BA%8B) | [影片](https://youtu.be/igiO6GtnjcM?t=14269) |       |     |
-| 2025-11-27 | 10:00 | 死者家屬到富山殮房認屍，包括殉職消防員何偉豪家人。                      | SEARCH_RECOVERY | 家屬認屍       | [HK01](https://www.hk01.com/%E7%AA%81%E7%99%BC/60298585/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB-%E6%99%82%E5%BA%8F-%E7%84%A1%E6%83%85%E7%81%AB%E7%87%927%E5%BB%88%E5%A5%AA%E9%80%BE%E7%99%BE%E5%91%BD-%E9%80%BE43%E5%B0%8F%E6%99%82%E7%99%BC%E7%94%9F%E4%BA%86%E4%BD%95%E4%BA%8B) | [影片](https://youtu.be/_RbbsVPI6hM?t=8984)  |       |     |
 | 2025-11-27 | 13:13 | 香港政府安排巡查全港所有正進行大型維修屋苑，檢視棚架及建築物料安全。    | INSPECTION      | 全港巡查       | [SBS Australia](https://www.sbs.com.au/language/chinese/zh-hant/article/hong-kong-residential-tower-fire-timeline/xey8t7kt2)                                                                                                                                                            | [影片](https://youtu.be/_RbbsVPI6hM?t=20571) |       |     |
 | 2025-11-27 | 14:40 | 消防處：增至55死。                                                      | CASUALTY_UPDATE | 55死           | [HK01](https://www.hk01.com/%E7%AA%81%E7%99%BC/60298585/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB-%E6%99%82%E5%BA%8F-%E7%84%A1%E6%83%85%E7%81%AB%E7%87%927%E5%BB%88%E5%A5%AA%E9%80%BE%E7%99%BE%E5%91%BD-%E9%80%BE43%E5%B0%8F%E6%99%82%E7%99%BC%E7%94%9F%E4%BA%86%E4%BD%95%E4%BA%8B) | [影片](https://youtu.be/_RbbsVPI6hM?t=25818) |       |     |
 | 2025-11-27 | 14:58 | 消防指四座已救熄，另外三座受控，死亡人數增至最少55人。                  | CASUALTY_UPDATE | 55死           | [SBS Australia](https://www.sbs.com.au/language/chinese/zh-hant/article/hong-kong-residential-tower-fire-timeline/xey8t7kt2)                                                                                                                                                            | [影片](https://youtu.be/_RbbsVPI6hM?t=26889) |       |     |
@@ -110,6 +119,8 @@
 
 <!-- PHASE_INFO_START -->
 
+<!-- TRANSLATE_ROWS: PHASE_NAME, STATUS -->
+
 | KEY            | VALUE                |
 | -------------- | -------------------- |
 | PHASE_NAME     | 撲滅與調查           |
@@ -128,6 +139,8 @@
 <!-- PHASE_DESCRIPTION_END -->
 
 <!-- TIMELINE_TABLE_START -->
+
+<!-- TRANSLATE_COLUMNS: EVENT, STATUS_NOTE, SOURCE, VIDEO, PHOTO -->
 
 | DATE       | TIME  | EVENT                                                       | CATEGORY        | STATUS_NOTE | SOURCE                                                                                                                                                                                                                                                                                  | VIDEO                                        | PHOTO | END |
 | ---------- | ----- | ----------------------------------------------------------- | --------------- | ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- | ----- | --- |
@@ -152,12 +165,14 @@
 
 <!-- PHASE_INFO_START -->
 
-| KEY            | VALUE                    |
-| -------------- | ------------------------ |
-| PHASE_NAME     | 頭七與後續               |
-| PHASE_CATEGORY | PHASE_AFTERMATH          |
-| DATE_RANGE     | 2025-12-01 至 2025-12-07 |
-| STATUS         | 善後與追責               |
+<!-- TRANSLATE_ROWS: PHASE_NAME, STATUS -->
+
+| KEY            | VALUE                   |
+| -------------- | ----------------------- |
+| PHASE_NAME     | 頭七與後續              |
+| PHASE_CATEGORY | PHASE_AFTERMATH         |
+| DATE_RANGE     | 2025-12-01 - 2025-12-07 |
+| STATUS         | 善後與追責              |
 
 <!-- PHASE_INFO_END -->
 
@@ -170,6 +185,8 @@
 <!-- PHASE_DESCRIPTION_END -->
 
 <!-- TIMELINE_TABLE_START -->
+
+<!-- TRANSLATE_COLUMNS: EVENT, STATUS_NOTE, SOURCE, VIDEO, PHOTO -->
 
 | DATE       | TIME         | EVENT           | CATEGORY      | STATUS_NOTE     | SOURCE                                                                          | VIDEO | PHOTO | END |
 | ---------- | ------------ | --------------- | ------------- | --------------- | ------------------------------------------------------------------------------- | ----- | ----- | --- |
@@ -188,6 +205,8 @@
 
 <!-- LONG_TERM_TRACKING_START -->
 
+<!-- TRANSLATE_COLUMNS: EVENT, NOTE -->
+
 | DATE       | CATEGORY          | EVENT           | STATUS      | NOTE               |
 | ---------- | ----------------- | --------------- | ----------- | ------------------ |
 | 2025-12-05 | LEGAL_PROCEEDINGS | TO BE DELICATED | IN_PROGRESS | 預計持續至 2026-06 |
@@ -204,6 +223,8 @@
 
 <!-- CATEGORY_METRICS_START -->
 
+<!-- TRANSLATE_COLUMNS: METRIC_LABEL, METRIC_UNIT, METRIC_VALUE -->
+
 | CATEGORY        | METRIC_KEY         | METRIC_LABEL   | METRIC_VALUE | METRIC_UNIT |
 | --------------- | ------------------ | -------------- | ------------ | ----------- |
 | FIRE_ESCALATION | MAX_FIRE_LEVEL     | 最高級別       | 5            | 級          |
@@ -216,6 +237,8 @@
 <!-- CATEGORY_METRICS_END -->
 
 <!-- NOTES_START -->
+
+<!-- TRANSLATE_TEXT -->
 
 - 本時間線旨在記錄長跨度及多線發展的事件。
 - 對於發生在同一時段的多個事件，以日期分組顯示。
