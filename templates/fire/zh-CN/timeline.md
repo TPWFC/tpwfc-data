@@ -212,9 +212,9 @@ DEAD:13(ON_SITE:9,TRANSIT:4)
 
 <!-- SOURCES_START -->
 
-| SOURCE_ID | SOURCE_NAME | SOURCE_TITLE | SOURCE_URL |
-| --------- | ----------- | ------------ | ---------- |
-| [ID]      | [Name]      | [Title]      | [URL]      |
+| SOURCE_NAME | SOURCE_TITLE | SOURCE_URL |
+| ----------- | ------------ | ---------- |
+| [Name]      | [Title]      | [URL]      |
 
 <!-- SOURCES_END -->
 

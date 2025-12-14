@@ -216,9 +216,9 @@ If a new status type is needed, please:
 
 <!-- SOURCES_START -->
 
-| SOURCE_ID | SOURCE_NAME | SOURCE_TITLE | SOURCE_URL |
-| --------- | ----------- | ------------ | ---------- |
-| [ID]      | [Name]      | [Title]      | [URL]      |
+| SOURCE_NAME | SOURCE_TITLE | SOURCE_URL |
+| ----------- | ------------ | ---------- |
+| [Name]      | [Title]      | [URL]      |
 
 <!-- SOURCES_END -->
 
