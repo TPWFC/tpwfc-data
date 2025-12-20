@@ -129,10 +129,10 @@ the remaining seven suffered varying degrees of damage.
 
 <!-- TRANSLATE_COLUMNS: SOURCE_NAME, SOURCE_TITLE -->
 
-| SOURCE_NAME   | SOURCE_TITLE                                                                                                               | SOURCE_URL                                                                                                                                                                                                                                                                        |
-| ------------- | -------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| HK01          | Wang Fuk Court Fire. Timeline - Ruthless fire burns 7 towers, taking over a hundred lives. What happened in over 43 hours? | <https://www.hk01.com/%E7%AA%81%E7%99%BC/60298585/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB-%E6%99%82%E5%BA%8F-%E7%84%A1%E6%83%85%E7%81%AB%E7%99%B27%E5%BB%88%E5%A5%AA%E9%80%BE%E7%99%BE%E5%91%BD-%E9%80%BE43%E5%B0%8F%E6%99%82%E7%99%BC%E7%94%9F%E4%BA%86%E4%BD%95%E4%BA%8B> |
-| SBS Australia | [Live Update] Hong Kong Tai Po Level 5 Fire Timeline                                                                       | <https://www.sbs.com.au/language/chinese/zh-hant/article/hong-kong-residential-tower-fire-timeline/xey8t7kt2>                                                                                                                                                                     |
+| SOURCE_NAME   | SOURCE_TITLE                                              | SOURCE_URL                                                                                                                                                                                                                                                                        |
+| ------------- | --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| HK01          | 宏福苑大火．時序-無情火燒7廈奪逾百命 逾43小時發生了何事？ | <https://www.hk01.com/%E7%AA%81%E7%99%BC/60298585/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB-%E6%99%82%E5%BA%8F-%E7%84%A1%E6%83%85%E7%81%AB%E7%87%927%E5%BB%88%E5%A5%AA%E9%80%BE%E7%99%BE%E5%91%BD-%E9%80%BE43%E5%B0%8F%E6%99%82%E7%99%BC%E7%94%9F%E4%BA%86%E4%BD%95%E4%BA%8B> |
+| SBS Australia | 【即時更新】香港大埔五級火警時間線                        | <https://www.sbs.com.au/language/chinese/zh-hant/article/hong-kong-residential-tower-fire-timeline/xey8t7kt2>                                                                                                                                                                     |
 
 <!-- SOURCES_END -->
 
@@ -155,6 +155,6 @@ the remaining seven suffered varying degrees of damage.
 
 <!-- METADATA_START
 VALIDATION: TRUE
-LAST_MODIFY: 2025-12-20T08:08:42Z
-HASH: 1aad231521bcbd455eee378db1cd8780a293afd606ddf42e7ce036e619ec9ba4
+LAST_MODIFY: 2025-12-20T08:32:28Z
+HASH: 97bc5e15c24fb126a0eab1097ceded37f75a9a6e15ab47fd65058cd2dc09785a
 METADATA_END -->

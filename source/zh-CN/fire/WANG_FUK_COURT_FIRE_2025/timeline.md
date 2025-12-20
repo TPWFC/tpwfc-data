@@ -124,8 +124,8 @@
 
 | SOURCE_NAME   | SOURCE_TITLE                                              | SOURCE_URL                                                                                                                                                                                                                                                                        |
 | ------------- | --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| HK01          | 宏福苑大火．时序-无情火烧7厦夺逾百命 逾43小时发生了何事？ | <https://www.hk01.com/%E7%AA%81%E7%99%BC/60298585/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB-%E6%99%82%E5%BA%8F-%E7%84%A1%E6%83%85%E7%81%AB%E7%87%927%E5%BB%88%E5%A5%AA%E9%80%BE%E7%99%BE%E5%91%BD-%E9%80%BE43%E5%B0%8F%E6%99%82%E7%99%BC%E7%94%9F%E4%BA%86%E4%BD%95%E4%BA%8B> |
-| SBS Australia | 【即时更新】香港大埔五级火警时间线                        | <https://www.sbs.com.au/language/chinese/zh-hant/article/hong-kong-residential-tower-fire-timeline/xey8t7kt2>                                                                                                                                                                     |
+| HK01          | 宏福苑大火．時序-無情火燒7廈奪逾百命 逾43小時發生了何事？ | <https://www.hk01.com/%E7%AA%81%E7%99%BC/60298585/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB-%E6%99%82%E5%BA%8F-%E7%84%A1%E6%83%85%E7%81%AB%E7%87%927%E5%BB%88%E5%A5%AA%E9%80%BE%E7%99%BE%E5%91%BD-%E9%80%BE43%E5%B0%8F%E6%99%82%E7%99%BC%E7%94%9F%E4%BA%86%E4%BD%95%E4%BA%8B> |
+| SBS Australia | 【即時更新】香港大埔五級火警時間線                        | <https://www.sbs.com.au/language/chinese/zh-hant/article/hong-kong-residential-tower-fire-timeline/xey8t7kt2>                                                                                                                                                                     |
 
 <!-- SOURCES_END -->
 
@@ -146,6 +146,6 @@
 
 <!-- METADATA_START
 VALIDATION: TRUE
-LAST_MODIFY: 2025-12-20T08:08:27Z
-HASH: f6d4b89044b96c235ff2183b8bdd0bf691262716aff025d0a2539aaf569c6207
+LAST_MODIFY: 2025-12-20T08:32:16Z
+HASH: 03dd59316b756457fc7833a05d2ad7a631f4592d7fb1b2d76d10384ad655435c
 METADATA_END -->
