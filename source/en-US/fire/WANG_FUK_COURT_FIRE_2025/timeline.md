@@ -30,10 +30,9 @@
 
 <!-- TRANSLATE_TEXT -->
 
-Scaffolding for large-scale external wall maintenance caught fire. Investigation
-revealed that the plastic sheeting used for external enclosure and the styrofoam
-(polystyrene) around window frames were highly flammable materials, causing the
-fire to spread rapidly.
+Scaffolding for large-scale external wall maintenance caught fire. Investigation revealed that the
+plastic sheeting used for external enclosure and the styrofoam (polystyrene) around window frames
+were highly flammable materials, causing the fire to spread rapidly.
 
 <!-- FIRE_CAUSE_END -->
 
@@ -43,11 +42,10 @@ fire to spread rapidly.
 
 <!-- TRANSLATE_TEXT -->
 
-This fire is the most serious fire accident in Hong Kong in 60 years, causing
-over a hundred deaths. The Fire Services Department received 346 calls for
-assistance, mobilized 304 fire and rescue vehicles, and dispatched over 1,250
-firefighters for rescue. Among the eight buildings, one was unaffected, while
-the remaining seven suffered varying degrees of damage.
+This fire is the most serious fire accident in Hong Kong in 60 years, causing over a hundred deaths.
+The Fire Services Department received 346 calls for assistance, mobilized 304 fire and rescue
+vehicles, and dispatched over 1,250 firefighters for rescue. Among the eight buildings, one was
+unaffected, while the remaining seven suffered varying degrees of damage.
 
 <!-- SEVERITY_END -->
 
@@ -144,10 +142,9 @@ the remaining seven suffered varying degrees of damage.
 
 <!-- TRANSLATE_TEXT -->
 
-- Events marked with a single source name indicate that only that source
-  reported it
-- There is a discrepancy in the final death toll between the two sources: HK01
-  reported 128 deaths, SBS Australia reported 94 deaths
+- Events marked with a single source name indicate that only that source reported it
+- There is a discrepancy in the final death toll between the two sources: HK01 reported 128 deaths,
+  SBS Australia reported 94 deaths
 - Casualty status uses standardized code format for machine parsing
 - The final death toll is the latest data as of 3:00 pm on November 28, 2025
 
@@ -155,6 +152,6 @@ the remaining seven suffered varying degrees of damage.
 
 <!-- METADATA_START
 VALIDATION: TRUE
-LAST_MODIFY: 2025-12-20T08:32:28Z
-HASH: 97bc5e15c24fb126a0eab1097ceded37f75a9a6e15ab47fd65058cd2dc09785a
+LAST_MODIFY: 2025-12-20T17:37:40Z
+HASH: b16e4447d116d3eeb343261a4505262cc7e50fe90a4af4c7d6870e5b079c9aea
 METADATA_END -->
