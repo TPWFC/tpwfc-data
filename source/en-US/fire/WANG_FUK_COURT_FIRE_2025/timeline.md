@@ -137,12 +137,10 @@ unaffected, while the remaining seven suffered varying degrees of damage.
 ## Notes
 
 <!-- NOTES_START -->
-
 <!-- TRANSLATE_TEXT -->
 
 - Events marked with a single source name indicate that only that source reported it
 - There is a discrepancy in the final death toll between the two sources: HK01 reported 128 deaths,
-  SBS Australia reported 94 deaths
 - Casualty status uses standardized code format for machine parsing
 - The final death toll is the latest data as of 3:00 pm on November 28, 2025
 
