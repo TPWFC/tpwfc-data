@@ -29,7 +29,7 @@ excerpt: 本网站为民间自发建立的资料库，并非政府官方网站�
 - 这些外部网站不受我们控制，我们对其内容、隐私政策或安全性不承担任何责任。
 - 提供这些链接仅为方便用户查阅原始资料，并不代表我们认可该网站的所有内容。
 
-## 4. 内容警告 (Content Warning)
+## 4. 内容警告
 
 由于本网站旨在记录一场严重火灾事故，部分内容（如文字描述、影像纪录）可能涉及伤亡、破坏及令人情绪不安的场景。
 
@@ -49,6 +49,6 @@ excerpt: 本网站为民间自发建立的资料库，并非政府官方网站�
 
 <!-- METADATA_START
 VALIDATION: TRUE
-LAST_MODIFY: 2025-12-24T11:51:17Z
-HASH: fd08a364b2669d5a338005cbc6a66af4f664908b8261fde146b06abd13adc894
+LAST_MODIFY: 2025-12-25T13:21:09Z
+HASH: c75bec5fdaf69dd2bb5dca518dc84e210cad1d514763e2702eb33ce232f3bdaa
 METADATA_END -->
